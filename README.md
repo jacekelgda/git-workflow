@@ -1,4 +1,4 @@
-# GIT-WORKFLOW
+# git-workflow
 Git workflow for our repositories
 
 ### Git completion:
